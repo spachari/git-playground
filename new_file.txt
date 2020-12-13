@@ -1,3 +1,8 @@
 This is a new file. We need to play with it
 
 user1 adds a line to it to test pull
+
+I am creating a tag because this is a release (v1.0.0)
+
+----until now we are in master
+This is added in branch1 and a new commit will be created
